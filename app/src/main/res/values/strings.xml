@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ACPCE</string>
+    <string name="PRN">PRN</string>
+    <string name="Password">Password</string>
+    <string name="Permanent_registration_number">Permanent Registration Number</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="Enter_your_prn">Enter your PRN</string>
+    <string name="Login">Login</string>
+    <string name="Create_an_account">Create an Account</string>
+    <string name="Dont_have_an_account_yet">Dont have an account yet?</string>
+    <string name="Remember_me">Remember me</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="Email">Email</string>
+    <string name="management">Management</string>
+    <string name="Student">Student</string>
+    <string name="Acpce">ACPCE</string>
+    <string name="where_knowledge_is_second_nature">Where knowledge is second nature</string>
+    <string name="MANAGEMENT">MANAGEMENT</string>
+    <string name="STUDENT">STUDENT</string>
+</resources>
